@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Moon Limb's Blog]]></title>
-  <link href="http://moonlimb.github.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Hackbright Academy | Moon Limb's Blog]]></title>
+  <link href="http://moonlimb.github.com/blog/categories/hackbright-academy/atom.xml" rel="self"/>
   <link href="http://moonlimb.github.com/"/>
   <updated>2012-10-15T00:02:53-07:00</updated>
   <id>http://moonlimb.github.com/</id>
@@ -24,11 +24,11 @@
 
 <p>This blog will mostly be a technical blog, tracing my learning escapades during my time at Hackbright Academy. It will focus on my codes, endeavours to debug and refactor them, and personal thoughts on both coding and non-coding alike. Any comments or feedback are always welcome.</p>
 
-<p>It&#8217;s important to mention that <a href="http://natashatherobot.com/">Natasha&#8217;s blog</a> was a great motivation for this blog. I find it inspiring that you can be a learner and a teacher at the same time, empowering other beginner coders by sharing learning experiences and resources. In my blog, I hope to do my best to keep a fresh learner&#8217;s perspective to help other self-learners out there, as Natasha and few others have done for me.</p>
+<p>It's important to mention that <a href="http://natashatherobot.com/">Natasha's blog</a> was a great motivation for this blog. I find it inspiring that you can be a learner and a teacher at the same time, empowering other beginner coders by sharing learning experiences and resources. In my blog, I hope to do my best to keep a fresh learner's perspective to help other self-learners out there, as Natasha and few others have done for me.</p>
 
 <p>Another motivation I have for writing my blog is to capture my inspirations. Inspirational moments seems to come and go, and while I consider inspiration to be powerful only when accompanied by hard work and action, I hope to capture some inspirations through my blog as I transition from a thinker and an idealist to a builder and an engineer.</p>
 
-<p>And here&#8217;s my present answer to the above question. Can I become a software engineer? Yes&#8211;only if I make it happen.</p>
+<p>And here's my present answer to the above question. Can I become a software engineer? Yes--only if I make it happen.</p>
 
 <ul>
 <li>Moon Limb</li>
@@ -38,7 +38,7 @@
 <hr />
 
 
-<p>“Success comes to those that dare to dream dreams and are foolish enough to try and make them come true.” &#8211; Vinod Khosla (@vkhosla)</p>
+<p>“Success comes to those that dare to dream dreams and are foolish enough to try and make them come true.” -- Vinod Khosla (@vkhosla)</p>
 ]]></content>
   </entry>
   
