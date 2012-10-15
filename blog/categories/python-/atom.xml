@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Python, | Moon Limb's Blog]]></title>
+  <link href="http://moonlimb.github.com/blog/categories/python-/atom.xml" rel="self"/>
+  <link href="http://moonlimb.github.com/"/>
+  <updated>2012-10-15T01:50:14-07:00</updated>
+  <id>http://moonlimb.github.com/</id>
+  <author>
+    <name><![CDATA[Moon Limb]]></name>
+    <email><![CDATA[moonlimb@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Practice with Functions: Build a Calculator]]></title>
+    <link href="http://moonlimb.github.com/blog/2012/10/15/practice-with-functions-build-a-calculator/"/>
+    <updated>2012-10-15T01:04:00-07:00</updated>
+    <id>http://moonlimb.github.com/blog/2012/10/15/practice-with-functions-build-a-calculator</id>
+    <content type="html"><![CDATA[<p>At Hackbright Academy, students work with a different pair programming partner each day. So daily experiences vary depending on both the programming assignment and the programming partner. I don't know if how we do pair programming is the norm, but at Hackbright a pair has two monitors &mdash;either facing same sides or diagonally across from each other&mdash; which are linked to same computer body. Unless you bring your own laptop, it's difficult to check emails, news, or other things during programming hours, especially because at least one monitor is in the visible range for the instructor. I find that there are advantages and disadvantages of pair programming (which I will elaborate in a later post).</p>
+
+<p>During the first week, we had a project on building a prefix calculator that emphasized manipulation of functions. The calculator took an initial user input......
+[ADD HERE]
+ My initial code that I worked with my pair Lisa included</p>
+
+<p>We wrote a separte file arithmetic.py that included function definition for mathematical opeations. For example:</p>
+
+<p>{% codeblock [square] [lang:python] %}
+code snippet
+{% endcodeblock %}</p>
+]]></content>
+  </entry>
+  
+</feed>
