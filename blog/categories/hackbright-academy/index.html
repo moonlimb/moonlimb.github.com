@@ -83,7 +83,7 @@
 <time datetime="2012-10-15T22:16:00-07:00" pubdate><span class='month'>Oct</span> <span class='day'>15</span> <span class='year'>2012</span></time>
 
 <footer>
-  <span class="categories">posted in <a class='category' href='/blog/categories/hackbright-academy/'>Hackbright Academy</a>, <a class='category' href='/blog/categories/python/'>Python</a>, <a class='category' href='/blog/categories/lists/'>lists</a>, <a class='category' href='/blog/categories/programming/'>programming</a>, <a class='category' href='/blog/categories/test-driven-development/'>test-driven development</a></span>
+  <span class="categories">posted in <a class='category' href='/blog/categories/hackbright-academy/'>Hackbright Academy</a>, <a class='category' href='/blog/categories/python/'>Python</a>, <a class='category' href='/blog/categories/programming/'>programming</a></span>
 </footer>
 
 
@@ -109,6 +109,35 @@
   </ul>
 </section>
 
+<section>
+  <h1>GitHub Repos</h1>
+  <ul id="gh_repos">
+    <li class="loading">Status updating...</li>
+  </ul>
+  
+  <a href="https://github.com/moonlimb">@moonlimb</a> on GitHub
+  
+  <script type="text/javascript">
+    $.domReady(function(){
+        if (!window.jXHR){
+            var jxhr = document.createElement('script');
+            jxhr.type = 'text/javascript';
+            jxhr.src = '/javascripts/libs/jXHR.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(jxhr, s);
+        }
+
+        github.showRepos({
+            user: 'moonlimb',
+            count: 0,
+            skip_forks: true,
+            target: '#gh_repos'
+        });
+    });
+  </script>
+  <script src="/javascripts/github.js" type="text/javascript"> </script>
+</section>
+
 
 <section>
   <h1>Latest Tweets</h1>
@@ -126,24 +155,6 @@
   
 </section>
 
-
-<section>
-  <h1>My Pinboard</h1>
-  <ul id="pinboard_linkroll">Fetching linkroll...</ul>
-  <p><a href="http://pinboard.in/u:moonlimb">My Pinboard Bookmarks &raquo;</a></p>
-</section>
-<script type="text/javascript">
-  var linkroll = 'pinboard_linkroll'; //id target for pinboard list
-  var pinboard_user = "moonlimb"; //id target for pinboard list
-  var pinboard_count = 3; //id target for pinboard list
-  (function(){
-    var pinboardInit = document.createElement('script');
-    pinboardInit.type = 'text/javascript';
-    pinboardInit.async = true;
-    pinboardInit.src = '/javascripts/pinboard.js';
-    document.getElementsByTagName('head')[0].appendChild(pinboardInit);
-  })();
-</script>
 
 
 
@@ -163,6 +174,15 @@
   
 
 
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) {return;}
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#appId=212934732101925&xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
 
 
 
