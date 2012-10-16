@@ -4,7 +4,7 @@
   <title><![CDATA[Moon Limb's Blog]]></title>
   <link href="http://moonlimb.github.com/atom.xml" rel="self"/>
   <link href="http://moonlimb.github.com/"/>
-  <updated>2012-10-15T01:48:09-07:00</updated>
+  <updated>2012-10-15T23:31:13-07:00</updated>
   <id>http://moonlimb.github.com/</id>
   <author>
     <name><![CDATA[Moon Limb]]></name>
@@ -12,5 +12,57 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Can I become a Software Engineer in 10 Weeks?]]></title>
+    <link href="http://moonlimb.github.com/blog/2012/10/15/can-i-become-a-software-engineer-in-10-weeks/"/>
+    <updated>2012-10-15T22:16:00-07:00</updated>
+    <id>http://moonlimb.github.com/blog/2012/10/15/can-i-become-a-software-engineer-in-10-weeks</id>
+    <content type="html"><![CDATA[<p>My experiences as a student at Hackbright Academy began on October 1st, 2012. For those unfamiliar with <a href="http://www.hackbrightacademy.com/">Hackbright Academy</a>, it is a 10-week intensive program that trains women with problem solving mindset but without the traditional computer science background to become software engineers and web developers. It is currently run by three amazing people: Christian, Charles and David (<a href="https://twitter.com/chriszf">@chriszf</a>, <a href="https://twitter.com/cruhland">@cruhland</a>, and <a href="https://twitter.com/davjphillips">@davjphillips</a>, respectively).</p>
+
+<p>I am one of the 16 diverse women in the second Hackbright batch. One thing everybody shares is curiosity for learning to program. Everybody is a mature learner, showing responsibility for her own learning. I find the immersive coding environment to be conducive to and befitting such rigorous learning, but impossible without instructors such as Christian and Charles. They both have two invaluable qualities of a teacher: ability to explain complex things with clarity and patience, and genuine interest and responsibility with which they approach educating.</p>
+
+<p>In college, I felt that whenever I got engrossed in a project or a subject, my engagement with other courses and assignments suffered. At the moment, I am truly glad to be able to focus on, theoretically, one thing: learning to code well in Python. My present occupations are to think, read and write about Python and general programming (although I do get distracted during the day with random thoughts such as which grocery item to buy, what movie to watch this week, how to prioritize things I want to buy, etc.).</p>
+
+<p>10 weeks won&#8217;t cover everything I want to learn, especially not the entire 4-year curriculum traditional computer science majors undergo. With stacks of tools and terminologies to familiarize oneself with, skills to build, and Hacker News articles to read, it has certainly felt bit overwhelming at times. But I realize that quality of learning and improving my qualifications as a coder is far more important than quantity of information I can hash out. I realize that while during 10 weeks my main focus will be on learning how to program, I embarked on life-long journey of learning.</p>
+
+<p>This blog will trace my learning escapades during my time at Hackbright Academy. It will focus on my codes, endeavours to debug and refactor them, and personal thoughts on both coding and non-coding alike. Any comments or feedback are always welcome.</p>
+
+<p>It&#8217;s important to mention that <a href="http://natashatherobot.com/">Natasha&#8217;s blog</a> was an inspiration for this blog. I find it inspiring that you can be a learner and a teacher at the same time, empowering other beginner coders by sharing learning experiences and resources. In my blog, I hope to do my best to use my fresh learner&#8217;s perspective to help other self-learners out there, as Natasha and few others have generously done. I want to pass along few of Natash&#8217;s invaluable tips that helped me during my first week at Hackbright.</p>
+
+<ol>
+<li>What type of learner are you?</li>
+<li>How can you optimize your resources to benefit your learning style?</li>
+<li>Take responsibility of your own learning!</li>
+</ol>
+
+
+<p>To conclude, here are my present answers to the above question: <br>
+Can I become a software engineer? Yes&#8211;only if I make it happen. (week 1 reply)<br>
+Can I become a good software engineer? Yes&#8211;and I will make it happen! (week 2 reply)</p>
+
+<p><i>Moon Limb</i></p>
+
+<hr />
+
+
+<p>“Success comes to those that dare to dream dreams and are foolish enough to try and make them come true.” &#8211; Vinod Khosla (<a href="https://twitter.com/vkhosla">@vkhosla</a>)</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Practice with Functions: Build a Calculator]]></title>
+    <link href="http://moonlimb.github.com/blog/2012/10/15/practice-with-functions-build-a-calculator/"/>
+    <updated>2012-10-15T01:04:00-07:00</updated>
+    <id>http://moonlimb.github.com/blog/2012/10/15/practice-with-functions-build-a-calculator</id>
+    <content type="html"><![CDATA[<p>At Hackbright Academy, students work with a different pair programming partner each day. So daily experiences vary depending on both the programming assignment and the programming partner. I don&#8217;t know if how we do pair programming is the norm, but at Hackbright a pair has two monitors &mdash;either facing same sides or diagonally across from each other&mdash; which are linked to same computer body. Unless you bring your own laptop, it&#8217;s difficult to check emails, news, or other things during programming hours, especially because at least one monitor is in the visible range for the instructor. I find that there are advantages and disadvantages of pair programming (which I will elaborate in a later post).</p>
+
+<p>During the first week, we had a project on building a prefix calculator that emphasized manipulation of functions. The calculator took an initial user input&#8230;&#8230;</p>
+
+<p> My initial code that I worked with my pair Lisa included</p>
+
+<p>We wrote a separte file arithmetic.py that included function definition for mathematical opeations. For example:</p>
+]]></content>
+  </entry>
   
 </feed>
