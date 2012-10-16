@@ -4,7 +4,7 @@
   <title><![CDATA[Moon Limb's Blog]]></title>
   <link href="http://moonlimb.github.com/atom.xml" rel="self"/>
   <link href="http://moonlimb.github.com/"/>
-  <updated>2012-10-15T23:35:47-07:00</updated>
+  <updated>2012-10-15T23:39:03-07:00</updated>
   <id>http://moonlimb.github.com/</id>
   <author>
     <name><![CDATA[Moon Limb]]></name>
@@ -44,21 +44,6 @@
 
 
 <p>“Success comes to those that dare to dream dreams and are foolish enough to try and make them come true.” &#8211; Vinod Khosla (<a href="https://twitter.com/vkhosla">@vkhosla</a>)</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Practice with Functions: Build a Calculator]]></title>
-    <link href="http://moonlimb.github.com/blog/2012/10/15/practice-with-functions-build-a-calculator/"/>
-    <updated>2012-10-15T01:04:00-07:00</updated>
-    <id>http://moonlimb.github.com/blog/2012/10/15/practice-with-functions-build-a-calculator</id>
-    <content type="html"><![CDATA[<p>At Hackbright Academy, students work with a different pair programming partner each day. So daily experiences vary depending on both the programming assignment and the programming partner. I don&#8217;t know if how we do pair programming is the norm, but at Hackbright a pair has two monitors &mdash;either facing same sides or diagonally across from each other&mdash; which are linked to same computer body. Unless you bring your own laptop, it&#8217;s difficult to check emails, news, or other things during programming hours, especially because at least one monitor is in the visible range for the instructor. I find that there are advantages and disadvantages of pair programming (which I will elaborate in a later post).</p>
-
-<p>During the first week, we had a project on building a prefix calculator that emphasized manipulation of functions. The calculator took an initial user input&#8230;&#8230;</p>
-
-<p> My initial code that I worked with my pair Lisa included</p>
-
-<p>We wrote a separte file arithmetic.py that included function definition for mathematical opeations. For example:</p>
 ]]></content>
   </entry>
   
