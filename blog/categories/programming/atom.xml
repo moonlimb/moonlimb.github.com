@@ -4,7 +4,7 @@
   <title><![CDATA[Category: programming | Moon Limb's Blog]]></title>
   <link href="http://moonlimb.github.com/blog/categories/programming/atom.xml" rel="self"/>
   <link href="http://moonlimb.github.com/"/>
-  <updated>2012-10-17T07:51:07-07:00</updated>
+  <updated>2012-10-17T23:40:43-07:00</updated>
   <id>http://moonlimb.github.com/</id>
   <author>
     <name><![CDATA[Moon Limb]]></name>
@@ -20,7 +20,7 @@
     <id>http://moonlimb.github.com/blog/2012/10/16/can-i-become-a-software-engineer-in-10-weeks</id>
     <content type="html"><![CDATA[<p>This blog will trace my learning during Hackbright Academy and beyond. It will focus on my codes, endeavours to debug and refactor them, and personal thoughts on both coding and non-coding alike. By blogging, I hope to put my inspirations to a productive use, and chronicle my experiences as I transition from a thinker and an idealist to a builder and an engineer. Any comments or feedback are always welcome!</p>
 
-<p>It's important to mention that <a href="http://natashatherobot.com/">Natasha's blog</a> was an inspiration for this blog. I find it inspiring that you can be a learner and a teacher at the same time, empowering other beginner coders by sharing learning experiences and resources. In my blog, I hope to do my best to use my fresh learner's perspective to help other self-learners out there, as Natasha and few others have generously done. I want to pass along few of Natash's invaluable tips that helped me during my first week at Hackbright (quoted, not 100% verbatim):</p>
+<p>It's important to mention that <a href="http://natashatherobot.com/">Natasha's blog</a> was an inspiration for this blog. I find it inspiring that you can be a learner and a teacher at the same time, empowering other beginner coders by sharing learning experiences and resources. In my blog, I hope to do my best to use my fresh learner's perspective to help other self-learners out there, as Natasha and few others have generously done. I want to pass along few of Natasha's invaluable tips that helped me during my first week at Hackbright (quoted, not 100% verbatim):</p>
 
 <ol style = "margin-left:3em;">
     <li>What is your <a href="http://natashatherobot.com/2012/01/23/to-learn-to-code-you-need-to-know-your-learning-style/">learning style</a>?</li>
@@ -33,9 +33,9 @@
 
 <p>October 1st, 2012 was my first day as a Hackbright student. There are 16 diverse women in the second batch, each of whom adds a unique color and character to our batch. Everyone approaches learning with certain maturity and appreciation, creating vibe conducive to learning. But our learning would have been impossible with instructors such as Christian and and Charles, who are able to explain complex things with clarity and patience, and approach educating us with genuine interest and responsibility.</p>
 
-<p>In college, whenever I became passionate about a project or a subject, it was at the expense of my other courses and assignments. I felt that too much energy was expended on managing different courses, and I couldn't delve deep into a single course. At the moment, I am truly happy to be able to focus on, theoretically, one learning objective: learning to code well. Python is the scripting language we're learning at Hackbright. It's fun to think, read, and write about Python; at the moment, coding in Python is the driving force and joy of my daily life.</p>
+<p>In college, whenever I became passionate about a project or a subject, it was at the expense of my other courses and assignments. I felt that too much energy was expended on managing different courses, and I couldn't delve deep into a single course. At the moment, I am truly happy to be able to focus on, theoretically, one learning objective: learning to code well. Python is the scripting language we're learning at Hackbright. It's fun to think, read, and write about Python; coding in Python is the driving force and joy of my present daily life.</p>
 
-<p>If you want to find out whether a certain path is right for you, my advice is to completely immerse yourself in it, at the risk of failure. If I didn't all-in on programming--and if Hackbright didn't take its chances on me-- I probably would have never found out how much I enjoyed programming. On my own, I can easily see myself giving up, with excuses such as "I don't know how to think like a computer scientist." Now, I can't imagine my life without programming.</p>
+<p>If you want to find out whether a certain path is right for you, my advice is to completely immerse yourself in it, at the risk of failure. If I didn't all-in on programming--and if Hackbright didn't take its chances on me--I probably would have never found out how much I enjoyed programming. On my own, I can easily see myself giving up, with excuses such as "I don't know how to think like a computer scientist." Now, I can't imagine my life without programming.</p>
 
 <p>10 weeks won't cover everything I want to learn, certainly not the entire 4-year curriculum traditional computer science majors undergo. In fact, there's only 7.5 more weeks left in the program (I have completed nearly 1/4 of the program already!). With stacks of tools and terminologies to familiarize myself with, skills to build, and Hacker News articles to read, it is and will certainly be overwhelming at times. But I realize that quality learning will make me a better hands-on programmer than the quantity of information I can hash out.</p>
 
@@ -50,7 +50,7 @@
 <hr />
 
 
-<p>“Success comes to those that dare to dream dreams and are foolish enough to try and makge them come true.” -- Vinod Khosla (<a href="https://twitter.com/vkhosla">@vkhosla</a>)</p>
+<p>“Success comes to those that dare to dream dreams and are foolish enough to try and make them come true.” -- Vinod Khosla (<a href="https://twitter.com/vkhosla">@vkhosla</a>)</p>
 ]]></content>
   </entry>
   
